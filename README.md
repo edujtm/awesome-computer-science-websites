@@ -30,6 +30,7 @@ Some websites with a huge amount of free content on computer science topics
 | name | topic | author |
 |------|-------|--------|
 | [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html) | Game Programming, C++ | [Bob Nystrom](https://twitter.com/munificentbob) |
+|[Unreal Cpp](https://unrealcpp.com/) | Game Programming, Computer Graphics | [Harrison McGuire](https://unrealcpp.com/) |
 
 ## Software Engineering
 
