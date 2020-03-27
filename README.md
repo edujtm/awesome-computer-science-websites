@@ -8,8 +8,8 @@ Some websites with a huge amount of free content on computer science topics
 |[Operating System in Rust](https://os.phil-opp.com/) | OS, Rust |  [Philipp Opperman](https://github.com/phil-opp) |
 |[How to make an Operating System](https://samypesse.gitbook.io/how-to-create-an-operating-system/) | OS, C++ | [Sammy Pessé](https://github.com/SamyPesse) |
 |[Linux Insides](https://0xax.gitbooks.io/linux-insides/content/index.html) | Linux, C |  [0xAX](https://github.com/0xAX) |
-|[ OSDev Wiki](https://wiki.osdev.org/Main_Page) | Operating Systems | [Many Authors](https://wiki.osdev.org/OSDev_Wiki:About) |
-
+|[OSDev Wiki](https://wiki.osdev.org/Main_Page) | Operating Systems | [Many Authors](https://wiki.osdev.org/OSDev_Wiki:About) |
+|[Raspberry PI OS](https://github.com/s-matyukevich/raspberry-pi-os) | Raspberry PI, Operating Systems | [Sergey Matyukevich](https://github.com/s-matyukevich) |
 
 ## Compilers, Parsers, Lexers
 
@@ -31,7 +31,8 @@ Some websites with a huge amount of free content on computer science topics
 |------|-------|--------|
 | [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html) | Game Programming, C++ | [Bob Nystrom](https://twitter.com/munificentbob) |
 |[Unreal Cpp](https://unrealcpp.com/) | Game Programming, Computer Graphics | [Harrison McGuire](https://unrealcpp.com/) |
-
+|[Roguelike Tutorial in Rust + Tcod](https://tomassedovic.github.io/roguelike-tutorial/) | Game Programming, Rust | [Tomas Sedovick](https://github.com/tomassedovic) |
+|[Roguelike Tutorial in Rust](https://bfnightly.bracketproductions.com/rustbook/chapter_0.html)| Game Programming, Rust | [Herbert Wolverson](https://github.com/thebracket) |
 ## Software Engineering
 
 | name | topic | author |
@@ -67,6 +68,14 @@ Some websites with a huge amount of free content on computer science topics
 | name | topic | author |
 |------|-------|--------|
 | [Typealias](https://typealias.com/) | Kotlin | [Dave Leeds](https://twitter.com/djleeds) |
+|[The Rust Book](https://doc.rust-lang.org/book/) | Rust | [Steve Klabnik](https://www.steveklabnik.com/) and [Carol Nichols](https://github.com/carols10cents) |
+
+## Programming Tools
+
+| name | topic | author |
+|------|-------|--------|
+|[MIT - The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | terminal tools | Many Authors |
+|[Pro Git](https://git-scm.com/book/en/v2) | Git | [Ben Straub](https://github.com/ben) |
 
 # Why make this repository?
 
