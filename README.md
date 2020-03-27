@@ -22,6 +22,8 @@ Some websites with a huge amount of free content on computer science topics
 | name | topic | author |
 |------|-------|--------|
 | [Scratch A Pixel](https://www.scratchapixel.com/) | Computer Graphics | [Jean-Colas Prunier](https://twitter.com/Scratchapixel) |
+|[Tiny Renderer](https://github.com/ssloy/tinyrenderer) | Rendering | [Dmitry V. Sokolov](https://github.com/ssloy) |
+|[The Book of Shaders](https://thebookofshaders.com/) | Shaders | [Patricio Gonzalez](http://patriciogonzalezvivo.com/) |
 
 ## Game Programming
 
@@ -41,13 +43,18 @@ Some websites with a huge amount of free content on computer science topics
 | name | topic | author |
 |------|-------|--------|
 |[How to GraphQL](https://www.howtographql.com/)| GraphQL | [Many Authors](https://github.com/howtographql/howtographql) |
+|[Mozilla Developer Network Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials)| Web Development | [Many Authors](https://developer.mozilla.org/en-US/docs/MDN/Community) |
 
 ## Algorithms
 
 | name | topic | author |
 |------|-------|--------|
 |[Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)| Algorithms | [Donne Martin](https://github.com/donnemartin) |
-
+|[Codeforces Algorithms And Data Structures](http://codeforces.com/blog/entry/13529) | Algorithms | Many Authors |
+|[Codeforces Competitive Programming Tutorials](http://codeforces.com/blog/entry/57282) | Algorithms | Many Authors |
+|[CodeChef Data Structures And Algorithms](https://discuss.codechef.com/t/data-structures-and-algorithms/6599) | Algorithms | Many Authors |
+|[E-Maxx Algorithms](https://cp-algorithms.com/) | Algorithms | Many Authors |
+|[Topcoder Tutorials](https://www.topcoder.com/community/competitive-programming/tutorials/) | Algorithms | Many Authors |
 ## Data science
 
 | name | topic | author |
