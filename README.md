@@ -80,6 +80,7 @@ Some websites with a huge amount of free content on computer science topics
 | [Eloquent Javascript](https://eloquentjavascript.net/) | Javascript |[Marijn Haverbeke](https://github.com/marijnh) | 
 | [Typescript Deep Dive](https://basarat.gitbook.io/typescript/) | Typescript | [Helmut Tammen](https://github.com/htammen) |
 | [F# For Fun And Profit](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/) | F# | [Scott W.](https://fsharpforfunandprofit.com/about/) |
+|[Learn You A Haskell For A Great Good](http://learnyouahaskell.com/chapters) | Haskell |[Mirân Lipovaca](http://learnyouahaskell.com/faq) |
 
 ## Programming Paradigms
 
