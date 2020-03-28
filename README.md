@@ -33,6 +33,7 @@ Some websites with a huge amount of free content on computer science topics
 |[Unreal Cpp](https://unrealcpp.com/) | Game Programming, Computer Graphics | [Harrison McGuire](https://unrealcpp.com/) |
 |[Roguelike Tutorial in Rust + Tcod](https://tomassedovic.github.io/roguelike-tutorial/) | Game Programming, Rust | [Tomas Sedovick](https://github.com/tomassedovic) |
 |[Roguelike Tutorial in Rust](https://bfnightly.bracketproductions.com/rustbook/chapter_0.html)| Game Programming, Rust | [Herbert Wolverson](https://github.com/thebracket) |
+
 ## Software Engineering
 
 | name | topic | author |
@@ -52,23 +53,40 @@ Some websites with a huge amount of free content on computer science topics
 | name | topic | author |
 |------|-------|--------|
 |[Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)| Algorithms | [Donne Martin](https://github.com/donnemartin) |
+|[Data Structures with Java](https://joshhug.gitbooks.io/hug61b/) | Data Structures | [Joshua Hug](https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html) |
 |[Codeforces Algorithms And Data Structures](http://codeforces.com/blog/entry/13529) | Algorithms | Many Authors |
 |[Codeforces Competitive Programming Tutorials](http://codeforces.com/blog/entry/57282) | Algorithms | Many Authors |
 |[CodeChef Data Structures And Algorithms](https://discuss.codechef.com/t/data-structures-and-algorithms/6599) | Algorithms | Many Authors |
 |[E-Maxx Algorithms](https://cp-algorithms.com/) | Algorithms | Many Authors |
 |[Topcoder Tutorials](https://www.topcoder.com/community/competitive-programming/tutorials/) | Algorithms | Many Authors |
+
 ## Data science
 
 | name | topic | author |
 |------|-------|--------|
 |[Data Science Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) | Data Science, Python | [Donne Martin](https://github.com/donnemartin) |
+|[The Foundations of Data Science](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/) | Data Science | [Ani Adikhari](https://statistics.berkeley.edu/people/ani-adhikari) and [John Denero](http://denero.org/) |
+|[Machine Learning Topic Explanations](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/) | Machine Learning | [Leonardo Araujo Santos](https://github.com/leonardoaraujosantos) |
+|[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) | Machine Learning | [Christoph Molnar](https://github.com/christophM) |
 
 ## Programming Languages
 
 | name | topic | author |
 |------|-------|--------|
 | [Typealias](https://typealias.com/) | Kotlin | [Dave Leeds](https://twitter.com/djleeds) |
-|[The Rust Book](https://doc.rust-lang.org/book/) | Rust | [Steve Klabnik](https://www.steveklabnik.com/) and [Carol Nichols](https://github.com/carols10cents) |
+| [The Rust Book](https://doc.rust-lang.org/book/) | Rust | [Steve Klabnik](https://www.steveklabnik.com/) and [Carol Nichols](https://github.com/carols10cents) |
+| [The Lisp Flavored Erlang Tutorial](https://lfe.gitbooks.io/tutorial/index.html) | Lisp, Erlang | [Robert Virding](https://github.com/rvirding) |
+| [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests/) | Go | [Chris James](https://github.com/quii) |
+| [Eloquent Javascript](https://eloquentjavascript.net/) | Javascript |[Marijn Haverbeke](https://github.com/marijnh) | 
+| [Typescript Deep Dive](https://basarat.gitbook.io/typescript/) | Typescript | [Helmut Tammen](https://github.com/htammen) |
+| [F# For Fun And Profit](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/) | F# | [Scott W.](https://fsharpforfunandprofit.com/about/) |
+
+## Programming Paradigms
+
+| name | topic | author |
+|------|-------|--------|
+|[Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/) | Functional Programming, Javascript | [Many Authors?](https://github.com/MostlyAdequate) |
+|[Functional Programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/) | Functional Programming, OCaml | [Many Authors](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/) |
 
 ## Programming Tools
 
