@@ -57,7 +57,7 @@ Some websites with a huge amount of free content on computer science topics
 
 | name | topic | author |
 |------|-------|--------|
-| [Practical Criptography With Go](https://doc.rust-lang.org/nomicon/index.html) | Criptography, Go | - |
+| [Practical Criptography With Go](https://leanpub.com/gocrypto/read) | Criptography, Go | - |
 
 ## Algorithms
 
