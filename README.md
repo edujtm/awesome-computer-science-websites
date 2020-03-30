@@ -68,6 +68,8 @@ Some websites with a huge amount of free content on computer science topics
 |[The Foundations of Data Science](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/) | Data Science | [Ani Adikhari](https://statistics.berkeley.edu/people/ani-adhikari) and [John Denero](http://denero.org/) |
 |[Machine Learning Topic Explanations](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/) | Machine Learning | [Leonardo Araujo Santos](https://github.com/leonardoaraujosantos) |
 |[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) | Machine Learning | [Christoph Molnar](https://github.com/christophM) |
+|[Neural Networks And Deep Learning](http://neuralnetworksanddeeplearning.com/) | Machine Learning | [Michael Nielsen](http://michaelnielsen.org/) |
+|[MIT: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/) | Machine Learning | [Andrej Karpathy](https://cs.stanford.edu/people/karpathy/) |
 
 ## Programming Languages
 
