@@ -24,6 +24,7 @@ Some websites with a huge amount of free content on computer science topics
 | [Scratch A Pixel](https://www.scratchapixel.com/) | Computer Graphics | [Jean-Colas Prunier](https://twitter.com/Scratchapixel) |
 |[Tiny Renderer](https://github.com/ssloy/tinyrenderer) | Rendering | [Dmitry V. Sokolov](https://github.com/ssloy) |
 |[The Book of Shaders](https://thebookofshaders.com/) | Shaders | [Patricio Gonzalez](http://patriciogonzalezvivo.com/) |
+|[3D Game Shaders for Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) | Shaders | [David Lettier](https://www.lettier.com/) |
 
 ## Game Programming
 
