@@ -52,6 +52,7 @@ Some websites with a huge amount of free content on computer science topics
 | [FullStack Redux Tutorial](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) | Redux | [Tero Parviainen](https://teropa.info/) |
 |[Soundcloud clone with React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux) | React, Redux | [Robin Wieruch](https://www.robinwieruch.de/) |
 | [Explore Flask](http://exploreflask.com/en/latest/preface.html) | Python, Flask | [Robert Picard](https://github.com/rpicard) |
+|[TDD With Python](https://www.obeythetestinggoat.com/pages/book.html#toc) | Python, Django | [Harry Percival](https://github.com/hjwp) |
 
 # Security & Criptography
 
@@ -89,7 +90,6 @@ Some websites with a huge amount of free content on computer science topics
 | [Typealias](https://typealias.com/) | Kotlin | [Dave Leeds](https://twitter.com/djleeds) |
 | [The Rust Book](https://doc.rust-lang.org/book/) | Rust | [Steve Klabnik](https://www.steveklabnik.com/) and [Carol Nichols](https://github.com/carols10cents) |
 | [The Rustonomicon](https://doc.rust-lang.org/nomicon/index.html) | Rust | - |
-| [The Lisp Flavored Erlang Tutorial](https://lfe.gitbooks.io/tutorial/index.html) | Lisp, Erlang | [Robert Virding](https://github.com/rvirding) |
 | [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests/) | Go | [Chris James](https://github.com/quii) |
 | [Effective Go](https://golang.org/doc/effective_go.html) | Go | - |
 | [Eloquent Javascript](https://eloquentjavascript.net/) | Javascript |[Marijn Haverbeke](https://github.com/marijnh) | 
