@@ -15,8 +15,9 @@ Some websites with a huge amount of free content on computer science topics
 
 | name | topic | author |
 |------|-------|--------|
-| [Lisperator - Implementing a programming language in Javascript](http://lisperator.net/pltut/) | parsers | [Mihai Bazon](https://github.com/mishoo) |
-| [Crafting Interpreters](https://www.craftinginterpreters.com/) | compilers | [Bob Nystrom](https://twitter.com/munificentbob) |
+| [Lisperator - Implementing a programming language in Javascript](http://lisperator.net/pltut/) | Parsers | [Mihai Bazon](https://github.com/mishoo) |
+| [Crafting Interpreters](https://www.craftinginterpreters.com/) | Compilers | [Bob Nystrom](https://twitter.com/munificentbob) |
+| [Let's Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/) | Interpreters | [Ruslan Spivak](https://ruslanspivak.com/pages/about/) |
 
 ## Computer Graphics
 | name | topic | author |
