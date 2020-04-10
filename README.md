@@ -97,7 +97,7 @@ Some websites with a huge amount of free content on computer science topics
 | [Eloquent Javascript](https://eloquentjavascript.net/) | Javascript |[Marijn Haverbeke](https://github.com/marijnh) | 
 | [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/) | Javascript | [Ivo Wetzel](https://github.com/BonsaiDen) |
 | [Understanding ES6](https://leanpub.com/understandinges6/read) | Javascript, EcmaScript 6 | [Nicholas Zakas](https://leanpub.com/u/nzakas) |
-| [Javascript Enlightenment](https://frontendmasters.com/books/javascript-enlightenment/) | Javascript, EcmaScript 5 | [Cody Lindley](http://codylindley.com/) |
+| [Javascript Enlightenment](https://frontendmasters.com/books/javascript-enlightenment/) | Javascript, EcmaScript 6 | [Cody Lindley](http://codylindley.com/) |
 | [Typescript Deep Dive](https://basarat.gitbook.io/typescript/) | Typescript | [Helmut Tammen](https://github.com/htammen) |
 | [F# For Fun And Profit](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/) | F# | [Scott W.](https://fsharpforfunandprofit.com/about/) |
 |[Learn You A Haskell For A Great Good](http://learnyouahaskell.com/chapters) | Haskell |[Mirân Lipovaca](http://learnyouahaskell.com/faq) |
