@@ -50,6 +50,7 @@ Some websites with a huge amount of free content on computer science topics
 |[How to GraphQL](https://www.howtographql.com/)| GraphQL | [Many Authors](https://github.com/howtographql/howtographql) |
 |[Mozilla Developer Network Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials)| Web Development | [Many Authors](https://developer.mozilla.org/en-US/docs/MDN/Community) |
 |[High Performance Browser Networking](https://hpbn.co/) | Networking, Web Performance | [Ilya Grigorik](https://www.goodreads.com/author/show/6889482.Ilya_Grigorik) |
+|[OAuth Simplified](https://www.oauth.com/)| OAuth | [Aaron Parecki](https://github.com/aaronpk) |
 |[OWASP Cheatsheet](https://cheatsheetseries.owasp.org/) | Web Security | [OWASP Foundation](https://owasp.org/) |
 | [useHooks](https://usehooks.com/) | React Hooks | [Gabe Garland](https://twitter.com/gabe_ragland) |
 | [FullStack Redux Tutorial](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) | Redux | [Tero Parviainen](https://teropa.info/) |
