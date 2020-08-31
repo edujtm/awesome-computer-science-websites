@@ -40,7 +40,7 @@ Some websites with a huge amount of free content on computer science topics
 |[Unreal Cpp](https://unrealcpp.com/) | Game Programming, Computer Graphics | [Harrison McGuire](https://unrealcpp.com/) |
 |[Roguelike Tutorial in Rust + Tcod](https://tomassedovic.github.io/roguelike-tutorial/) | Game Programming, Rust | [Tomas Sedovick](https://github.com/tomassedovic) |
 |[Roguelike Tutorial in Rust](https://bfnightly.bracketproductions.com/rustbook/chapter_0.html)| Game Programming, Rust | [Herbert Wolverson](https://github.com/thebracket) |
-|[How to Make a Roguelike](https://hexworks.org/posts/tutorials/2018/12/04/how-to-make-a-roguelike.html)| Game Programming, Kotlin | (Adam Arold)[https://github.com/adam-arold]|
+|[How to Make a Roguelike](https://hexworks.org/posts/tutorials/2018/12/04/how-to-make-a-roguelike.html)| Game Programming, Kotlin | [Adam Arold](https://github.com/adam-arold) |
 |[Game Programming Tutorials](https://bell0bytes.eu/game-programming/)| Game programming, C++ | [Gilles Bellot](https://gitlab.com/Symplectos) |
 
 ## Software Engineering
