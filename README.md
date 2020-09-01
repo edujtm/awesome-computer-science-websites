@@ -1,15 +1,17 @@
 # awesome-computer-science-websites
 Some websites with a huge amount of free content on computer science topics
 
+- Items marked with :warning: are incomplete/work in progress.
+
 ## Operating Systems
 
 | name | topic | author |
 -------|-------|--------|
 |[Operating System in Rust](https://os.phil-opp.com/) | OS, Rust |  [Philipp Opperman](https://github.com/phil-opp) |
-|[How to make an Operating System](https://samypesse.gitbook.io/how-to-create-an-operating-system/) | OS, C++ | [Sammy Pessé](https://github.com/SamyPesse) |
+|[How to make an Operating System](https://samypesse.gitbook.io/how-to-create-an-operating-system/) :warning: | OS, C++ | [Sammy Pessé](https://github.com/SamyPesse) |
 |[Linux Insides](https://0xax.gitbooks.io/linux-insides/content/index.html) | Linux, C |  [0xAX](https://github.com/0xAX) |
 |[OSDev Wiki](https://wiki.osdev.org/Main_Page) | Operating Systems | [Many Authors](https://wiki.osdev.org/OSDev_Wiki:About) |
-|[Raspberry PI OS](https://github.com/s-matyukevich/raspberry-pi-os) | Raspberry PI, Operating Systems | [Sergey Matyukevich](https://github.com/s-matyukevich) |
+|[Raspberry PI OS](https://github.com/s-matyukevich/raspberry-pi-os) :warning: | Raspberry PI, Operating Systems | [Sergey Matyukevich](https://github.com/s-matyukevich) |
 
 ## Compilers, Parsers, Lexers
 
@@ -25,7 +27,7 @@ Some websites with a huge amount of free content on computer science topics
 |------|-------|--------|
 | [Scratch A Pixel](https://www.scratchapixel.com/) | Computer Graphics | [Jean-Colas Prunier](https://twitter.com/Scratchapixel) |
 |[Tiny Renderer](https://github.com/ssloy/tinyrenderer) | Rendering | [Dmitry V. Sokolov](https://github.com/ssloy) |
-|[The Book of Shaders](https://thebookofshaders.com/) | Shaders | [Patricio Gonzalez](http://patriciogonzalezvivo.com/) |
+|[The Book of Shaders](https://thebookofshaders.com/) :warning: | Shaders | [Patricio Gonzalez](http://patriciogonzalezvivo.com/) |
 |[3D Game Shaders for Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) | Shaders | [David Lettier](https://www.lettier.com/) |
 |[Vulkan Tutorial](https://vulkan-tutorial.com/Introduction)| Computer Graphics |-|
 |[Physically Based Rendering: From Theory to Implementation](http://www.pbr-book.org/)| Rendering |[Matt Pharr](https://github.com/mmp), [Wenzel Jakob](https://github.com/wjakob), and Greg Humphreys|
@@ -64,6 +66,7 @@ Some websites with a huge amount of free content on computer science topics
 |[Soundcloud clone with React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux) | React, Redux | [Robin Wieruch](https://www.robinwieruch.de/) |
 | [Explore Flask](http://exploreflask.com/en/latest/preface.html) | Python, Flask | [Robert Picard](https://github.com/rpicard) |
 |[TDD With Python](https://www.obeythetestinggoat.com/pages/book.html#toc) | Python, Django | [Harry Percival](https://github.com/hjwp) |
+||[Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) | Python, Flask | [Miguel Grinberg](https://github.com/miguelgrinberg) |
 
 ## Security & Criptography
 
@@ -125,6 +128,9 @@ Some websites with a huge amount of free content on computer science topics
 |[MIT - The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | terminal tools | Many Authors |
 |[Pro Git](https://git-scm.com/book/en/v2) | Git | [Ben Straub](https://github.com/ben) |
 |[Learn Vimscript The Hard Way](https://learnvimscriptthehardway.stevelosh.com/) | Advanced Vim | [Steve Losh](https://stevelosh.com/) |
+
+
+
 
 # Why make this repository?
 
