@@ -129,8 +129,11 @@ Some websites with a huge amount of free content on computer science topics
 |[Pro Git](https://git-scm.com/book/en/v2) | Git | [Ben Straub](https://github.com/ben) |
 |[Learn Vimscript The Hard Way](https://learnvimscriptthehardway.stevelosh.com/) | Advanced Vim | [Steve Losh](https://stevelosh.com/) |
 
+## Mathematics
 
-
+| name | topic | author |
+|------|-------|--------|
+|[Mathematics for Programmers](https://jeremykun.com/main-content/) | Mathematics | [Jeremy Kun](https://jeremykun.com/about/) |
 
 # Why make this repository?
 
