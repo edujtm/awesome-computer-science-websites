@@ -66,7 +66,7 @@ Some websites with a huge amount of free content on computer science topics
 |[Soundcloud clone with React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux) | React, Redux | [Robin Wieruch](https://www.robinwieruch.de/) |
 | [Explore Flask](http://exploreflask.com/en/latest/preface.html) | Python, Flask | [Robert Picard](https://github.com/rpicard) |
 |[TDD With Python](https://www.obeythetestinggoat.com/pages/book.html#toc) | Python, Django | [Harry Percival](https://github.com/hjwp) |
-||[Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) | Python, Flask | [Miguel Grinberg](https://github.com/miguelgrinberg) |
+|[Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) | Python, Flask | [Miguel Grinberg](https://github.com/miguelgrinberg) |
 
 ## Security & Criptography
 
