@@ -12,6 +12,7 @@ Some websites with a huge amount of free content on computer science topics
 |[Linux Insides](https://0xax.gitbooks.io/linux-insides/content/index.html) | Linux, C |  [0xAX](https://github.com/0xAX) |
 |[OSDev Wiki](https://wiki.osdev.org/Main_Page) | Operating Systems | [Many Authors](https://wiki.osdev.org/OSDev_Wiki:About) |
 |[Raspberry PI OS](https://github.com/s-matyukevich/raspberry-pi-os) :warning: | Raspberry PI, Operating Systems | [Sergey Matyukevich](https://github.com/s-matyukevich) |
+|[Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer)| Linux, Rust | [Amos Wenger](https://fasterthanli.me/about) |
 
 ## Compilers, Parsers, Lexers
 
