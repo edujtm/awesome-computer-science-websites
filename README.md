@@ -59,19 +59,20 @@ Some websites with a huge amount of free content on computer science topics
 
 | name | topic | Pub. Year / Last Update |author |
 |------|-------|--------|--------|
-|[How to GraphQL](https://www.howtographql.com/)| GraphQL | 2018 / 2020 |[Many Authors](https://github.com/howtographql/howtographql) |
-|[Mozilla Developer Network Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials)| Web Development | - |[Many Authors](https://developer.mozilla.org/en-US/docs/MDN/Community) |
-|[High Performance Browser Networking](https://hpbn.co/) | Networking, Web Performance | - | [Ilya Grigorik](https://www.goodreads.com/author/show/6889482.Ilya_Grigorik) |
-|[OAuth Simplified](https://www.oauth.com/)| OAuth | - | [Aaron Parecki](https://github.com/aaronpk) |
-|[OWASP Cheatsheet](https://cheatsheetseries.owasp.org/) | Web Security | 2020 (C.U.) | [OWASP Foundation](https://owasp.org/) |
+| [How to GraphQL](https://www.howtographql.com/)| GraphQL | 2018 / 2020 |[Many Authors](https://github.com/howtographql/howtographql) |
+| [Mozilla Developer Network Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials)| Web Development | - |[Many Authors](https://developer.mozilla.org/en-US/docs/MDN/Community) |
+| [High Performance Browser Networking](https://hpbn.co/) | Networking, Web Performance | - | [Ilya Grigorik](https://www.goodreads.com/author/show/6889482.Ilya_Grigorik) |
+| [OAuth Simplified](https://www.oauth.com/)| OAuth | - | [Aaron Parecki](https://github.com/aaronpk) |
+| [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/) | Web Security | 2020 (C.U.) | [OWASP Foundation](https://owasp.org/) |
 | [useHooks](https://usehooks.com/) | React Hooks | 2018 / 2020 | [Gabe Garland](https://twitter.com/gabe_ragland) |
 | [FullStack Redux Tutorial](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) | Redux | 2015 | [Tero Parviainen](https://teropa.info/) |
 |[Soundcloud clone with React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux) | React, Redux | 2016 | [Robin Wieruch](https://www.robinwieruch.de/) |
 | [Explore Flask](http://exploreflask.com/en/latest/preface.html) | Python, Flask | 2014 |[Robert Picard](https://github.com/rpicard) |
-|[TDD With Python](https://www.obeythetestinggoat.com/pages/book.html#toc) | Python, Django | 2016 / 2017 | [Harry Percival](https://github.com/hjwp) |
-|[Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) | Python, Flask | - / 2017 | [Miguel Grinberg](https://github.com/miguelgrinberg) |
-|[Django Book](https://django-book.readthedocs.io/en/latest/)| Python, Django | 2012 / 2013 | [Matt Behrens](https://github.com/askedrelic) |
-
+| [TDD With Python](https://www.obeythetestinggoat.com/pages/book.html#toc) | Python, Django | 2016 / 2017 | [Harry Percival](https://github.com/hjwp) |
+| [Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) | Python, Flask | - / 2017 | [Miguel Grinberg](https://github.com/miguelgrinberg) |
+| [Django Book](https://django-book.readthedocs.io/en/latest/)| Python, Django | 2012 / 2013 | [Matt Behrens](https://github.com/askedrelic) |
+| [Haskell and Yesod](https://www.yesodweb.com/book) | Haskell, Yesod | 2015 / - |[Michael Snoyman](https://github.com/snoyberg) |
+ 
 ## Security & Criptography
 
 | name | topic | Pub. Year | author |
@@ -116,7 +117,8 @@ Some websites with a huge amount of free content on computer science topics
 | [Javascript Enlightenment](https://frontendmasters.com/books/javascript-enlightenment/) | Javascript, EcmaScript 6 | [Cody Lindley](http://codylindley.com/) |
 | [Typescript Deep Dive](https://basarat.gitbook.io/typescript/) | Typescript | [Helmut Tammen](https://github.com/htammen) |
 | [F# For Fun And Profit](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/) | F# | [Scott W.](https://fsharpforfunandprofit.com/about/) |
-|[Learn You A Haskell For A Great Good](http://learnyouahaskell.com/chapters) | Haskell |[Mirân Lipovaca](http://learnyouahaskell.com/faq) |
+| [Learn You A Haskell For A Great Good](http://learnyouahaskell.com/chapters) | Haskell |[Mirân Lipovaca](http://learnyouahaskell.com/faq) |
+| [Real World Haskell](http://book.realworldhaskell.org/read/) | Haskell | Bryan O'Sullivan, Don Stewart, and John Goerzen |
 
 ## Programming Paradigms
 
