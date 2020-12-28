@@ -2,26 +2,28 @@
 Some websites with a huge amount of free content on computer science topics
 
 - Items marked with :warning: are incomplete/work in progress.
+- Publication years (Pub. Year) are based on information I've found on the websites and might not be completely accurate. They are only meant to give a rough idea if the content might be outdated. (C.U. means Continuosly Updated and a - means Not Found)
 
 ## Operating Systems
 
-| name | topic | author |
--------|-------|--------|
-|[Operating System in Rust](https://os.phil-opp.com/) | OS, Rust |  [Philipp Opperman](https://github.com/phil-opp) |
-|[How to make an Operating System](https://samypesse.gitbook.io/how-to-create-an-operating-system/) :warning: | OS, C++ | [Sammy Pessé](https://github.com/SamyPesse) |
-|[Linux Insides](https://0xax.gitbooks.io/linux-insides/content/index.html) | Linux, C |  [0xAX](https://github.com/0xAX) |
-|[OSDev Wiki](https://wiki.osdev.org/Main_Page) | Operating Systems | [Many Authors](https://wiki.osdev.org/OSDev_Wiki:About) |
-|[Raspberry PI OS](https://github.com/s-matyukevich/raspberry-pi-os) :warning: | Raspberry PI, Operating Systems | [Sergey Matyukevich](https://github.com/s-matyukevich) |
-|[Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer)| Linux, Rust | [Amos Wenger](https://fasterthanli.me/about) |
+| name | topic | Pub. Year | author |
+-------|-------|--------|--------|
+|[Operating System in Rust](https://os.phil-opp.com/) | OS, Rust | 2020 | [Philipp Opperman](https://github.com/phil-opp) |
+|[How to make an Operating System](https://samypesse.gitbook.io/how-to-create-an-operating-system/) :warning: | OS, C++ | 2018 | [Sammy Pessé](https://github.com/SamyPesse) |
+|[Linux Insides](https://0xax.gitbooks.io/linux-insides/content/index.html) | Linux, C | 2020 (C.U.) | [0xAX](https://github.com/0xAX) |
+|[OSDev Wiki](https://wiki.osdev.org/Main_Page) | Operating Systems | 2020 (C.U.) | [Many Authors](https://wiki.osdev.org/OSDev_Wiki:About) |
+|[Raspberry PI OS](https://github.com/s-matyukevich/raspberry-pi-os) :warning: | Raspberry PI, Operating Systems | 2019 |[Sergey Matyukevich](https://github.com/s-matyukevich) |
+|[Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer)| Linux, Rust | 2020 | [Amos Wenger](https://fasterthanli.me/about) |
 
 ## Compilers, Parsers, Lexers
 
-| name | topic | author |
-|------|-------|--------|
-| [Lisperator - Implementing a programming language in Javascript](http://lisperator.net/pltut/) | Parsers | [Mihai Bazon](https://github.com/mishoo) |
-| [Crafting Interpreters](https://www.craftinginterpreters.com/) | Compilers | [Bob Nystrom](https://twitter.com/munificentbob) |
-| [Let's Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/) | Interpreters | [Ruslan Spivak](https://ruslanspivak.com/pages/about/) |
-| [Build Your Own Lisp](http://www.buildyourownlisp.com/) | Compilers |[Daniel Holden](https://github.com/orangeduck) |
+| name | topic | Pub. Year / Last Update | author |
+|------|-------|--------|--------|
+| [Lisperator - Implementing a programming language in Javascript](http://lisperator.net/pltut/) | Parsers, Javascript | - / - | [Mihai Bazon](https://github.com/mishoo) |
+| [Crafting Interpreters](https://www.craftinginterpreters.com/) | Compilers, Java, C | 2015 / - | [Bob Nystrom](https://twitter.com/munificentbob) |
+| [Let's Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/) | Interpreters, Python | 2015 / - | [Ruslan Spivak](https://ruslanspivak.com/pages/about/) |
+| [Build Your Own Lisp](http://www.buildyourownlisp.com/) | Compilers, C | 2015 / - |[Daniel Holden](https://github.com/orangeduck) |
+| [Make a Language with Rust](https://arzg.github.io/lang/) | Parsers, Lexers, Rust | 2020 / 2020 | [Aramis Razzaghipour](https://github.com/arzg) |
 
 ## Computer Graphics
 | name | topic | author |
@@ -55,25 +57,26 @@ Some websites with a huge amount of free content on computer science topics
 
 ## Web Development
 
-| name | topic | author |
-|------|-------|--------|
-|[How to GraphQL](https://www.howtographql.com/)| GraphQL | [Many Authors](https://github.com/howtographql/howtographql) |
-|[Mozilla Developer Network Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials)| Web Development | [Many Authors](https://developer.mozilla.org/en-US/docs/MDN/Community) |
-|[High Performance Browser Networking](https://hpbn.co/) | Networking, Web Performance | [Ilya Grigorik](https://www.goodreads.com/author/show/6889482.Ilya_Grigorik) |
-|[OAuth Simplified](https://www.oauth.com/)| OAuth | [Aaron Parecki](https://github.com/aaronpk) |
-|[OWASP Cheatsheet](https://cheatsheetseries.owasp.org/) | Web Security | [OWASP Foundation](https://owasp.org/) |
-| [useHooks](https://usehooks.com/) | React Hooks | [Gabe Garland](https://twitter.com/gabe_ragland) |
-| [FullStack Redux Tutorial](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) | Redux | [Tero Parviainen](https://teropa.info/) |
-|[Soundcloud clone with React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux) | React, Redux | [Robin Wieruch](https://www.robinwieruch.de/) |
-| [Explore Flask](http://exploreflask.com/en/latest/preface.html) | Python, Flask | [Robert Picard](https://github.com/rpicard) |
-|[TDD With Python](https://www.obeythetestinggoat.com/pages/book.html#toc) | Python, Django | [Harry Percival](https://github.com/hjwp) |
-|[Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) | Python, Flask | [Miguel Grinberg](https://github.com/miguelgrinberg) |
+| name | topic | Pub. Year / Last Update |author |
+|------|-------|--------|--------|
+|[How to GraphQL](https://www.howtographql.com/)| GraphQL | 2018 / 2020 |[Many Authors](https://github.com/howtographql/howtographql) |
+|[Mozilla Developer Network Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials)| Web Development | - |[Many Authors](https://developer.mozilla.org/en-US/docs/MDN/Community) |
+|[High Performance Browser Networking](https://hpbn.co/) | Networking, Web Performance | - | [Ilya Grigorik](https://www.goodreads.com/author/show/6889482.Ilya_Grigorik) |
+|[OAuth Simplified](https://www.oauth.com/)| OAuth | - | [Aaron Parecki](https://github.com/aaronpk) |
+|[OWASP Cheatsheet](https://cheatsheetseries.owasp.org/) | Web Security | 2020 (C.U.) | [OWASP Foundation](https://owasp.org/) |
+| [useHooks](https://usehooks.com/) | React Hooks | 2018 / 2020 | [Gabe Garland](https://twitter.com/gabe_ragland) |
+| [FullStack Redux Tutorial](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) | Redux | 2015 | [Tero Parviainen](https://teropa.info/) |
+|[Soundcloud clone with React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux) | React, Redux | 2016 | [Robin Wieruch](https://www.robinwieruch.de/) |
+| [Explore Flask](http://exploreflask.com/en/latest/preface.html) | Python, Flask | 2014 |[Robert Picard](https://github.com/rpicard) |
+|[TDD With Python](https://www.obeythetestinggoat.com/pages/book.html#toc) | Python, Django | 2016 / 2017 | [Harry Percival](https://github.com/hjwp) |
+|[Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) | Python, Flask | - / 2017 | [Miguel Grinberg](https://github.com/miguelgrinberg) |
+|[Django Book](https://django-book.readthedocs.io/en/latest/)| Python, Django | 2012 / 2013 | [Matt Behrens](https://github.com/askedrelic) |
 
 ## Security & Criptography
 
-| name | topic | author |
-|------|-------|--------|
-| [Practical Criptography With Go](https://leanpub.com/gocrypto/read) | Criptography, Go | - |
+| name | topic | Pub. Year | author |
+|------|-------|--------|--------|
+| [Practical Criptography With Go](https://leanpub.com/gocrypto/read) | Criptography, Go | 2015 | - |
 
 ## Algorithms
 
