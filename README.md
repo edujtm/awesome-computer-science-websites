@@ -72,6 +72,15 @@ Some websites with a huge amount of free content on computer science topics
 | [Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) | Python, Flask | - / 2017 | [Miguel Grinberg](https://github.com/miguelgrinberg) |
 | [Django Book](https://django-book.readthedocs.io/en/latest/)| Python, Django | 2012 / 2013 | [Matt Behrens](https://github.com/askedrelic) |
 | [Haskell and Yesod](https://www.yesodweb.com/book) | Haskell, Yesod | 2015 / - |[Michael Snoyman](https://github.com/snoyberg) |
+
+## Databases
+
+
+| name | topic | author |
+|------|-------|--------|
+|[SQL Server Tutorial](https://www.sqlservertutorial.net/)| SQL Server, T-SQL | - |
+|[MySQL Tutorial](https://www.mysqltutorial.org/)| MySQL | - |
+|[PostgreSQL Tutorial](https://www.postgresqltutorial.com/)| PostgreSQL | - |
  
 ## Security & Criptography
 
@@ -134,6 +143,7 @@ Some websites with a huge amount of free content on computer science topics
 |[MIT - The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | terminal tools | Many Authors |
 |[Pro Git](https://git-scm.com/book/en/v2) | Git | [Ben Straub](https://github.com/ben) |
 |[Learn Vimscript The Hard Way](https://learnvimscriptthehardway.stevelosh.com/) | Advanced Vim | [Steve Losh](https://stevelosh.com/) |
+|[Vim Help](https://vim.help/)| Vim | [@cheap_glitch](https://twitter.com/cheap_glitch) |
 
 ## Mathematics
 
