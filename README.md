@@ -71,6 +71,7 @@ Some websites with a huge amount of free content on computer science topics
 | [TDD With Python](https://www.obeythetestinggoat.com/pages/book.html#toc) | Python, Django | 2016 / 2017 | [Harry Percival](https://github.com/hjwp) |
 | [Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) | Python, Flask | - / 2017 | [Miguel Grinberg](https://github.com/miguelgrinberg) |
 | [Django Book](https://django-book.readthedocs.io/en/latest/)| Python, Django | 2012 / 2013 | [Matt Behrens](https://github.com/askedrelic) |
+| [Testing Angular - A Guide to Robust Angular Applications](https://testing-angular.com/) | Angular | 2021 | [Mathias Schäfer](https://twitter.com/molily) |
 | [Haskell and Yesod](https://www.yesodweb.com/book) | Haskell, Yesod | 2015 / - |[Michael Snoyman](https://github.com/snoyberg) |
 
 ## Databases
