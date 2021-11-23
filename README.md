@@ -73,6 +73,7 @@ Some websites with a huge amount of free content on computer science topics
 | [Django Book](https://django-book.readthedocs.io/en/latest/)| Python, Django | 2012 / 2013 | [Matt Behrens](https://github.com/askedrelic) |
 | [Testing Angular - A Guide to Robust Angular Applications](https://testing-angular.com/) | Angular | 2021 | [Mathias Schäfer](https://twitter.com/molily) |
 | [Haskell and Yesod](https://www.yesodweb.com/book) | Haskell, Yesod | 2015 / - |[Michael Snoyman](https://github.com/snoyberg) |
+| [Web Browser Engineering](https://browser.engineering/) | Browsers | 2021 / - | [Pavel Panchekha](https://browser.engineering/blog/) |
 
 ## Databases
 
@@ -145,12 +146,14 @@ Some websites with a huge amount of free content on computer science topics
 |[Pro Git](https://git-scm.com/book/en/v2) | Git | [Ben Straub](https://github.com/ben) |
 |[Learn Vimscript The Hard Way](https://learnvimscriptthehardway.stevelosh.com/) | Advanced Vim | [Steve Losh](https://stevelosh.com/) |
 |[Vim Help](https://vim.help/)| Vim | [@cheap_glitch](https://twitter.com/cheap_glitch) |
+|[Software Tools in Javascript](https://stjs.tech/)| Software Tooling | [Greg Wilson](https://github.com/gvwilson) |
 
 ## Mathematics
 
 | name | topic | author |
 |------|-------|--------|
 |[Mathematics for Programmers](https://jeremykun.com/main-content/) | Mathematics | [Jeremy Kun](https://jeremykun.com/about/) |
+
 
 # Why make this repository?
 
