@@ -130,7 +130,8 @@ Some websites with a huge amount of free content on computer science topics
 | [F# For Fun And Profit](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/) | F# | [Scott W.](https://fsharpforfunandprofit.com/about/) |
 | [Learn You A Haskell For A Great Good](http://learnyouahaskell.com/chapters) | Haskell |[Mirân Lipovaca](http://learnyouahaskell.com/faq) |
 | [Real World Haskell](http://book.realworldhaskell.org/read/) | Haskell | Bryan O'Sullivan, Don Stewart, and John Goerzen |
-
+| [Edulinq](https://codeblog.jonskeet.uk/category/edulinq/) | C#, LINQ | [Jon Skeet](https://github.com/jskeet) |
+ 
 ## Programming Paradigms
 
 | name | topic | author |
