@@ -37,7 +37,7 @@ Some websites with a huge amount of free content on computer science topics
 |[Raytracing In One Weekend](https://raytracing.github.io/)| Rendering | [Peter Shirlay](https://github.com/petershirley) |
 |[Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/)| Computer Graphics | Jason L. McKesson |
 |[3D Math Primer for Graphics and Game Development](https://gamemath.com/book/intro.html)| Computer Graphics | Fletcher Dunn, Iann Parbery |
-|[Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/)| Computer Graphics | Gabriel Gambetta |
+|[Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/)| Computer Graphics | [Gabriel Gambetta](https://gabrielgambetta.com/index.html) |
 
 ## Game Programming
 
