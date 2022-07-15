@@ -148,7 +148,6 @@ Some websites with a huge amount of free content on computer science topics
 |[MIT - The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | terminal tools | Many Authors |
 |[Pro Git](https://git-scm.com/book/en/v2) | Git | [Ben Straub](https://github.com/ben) |
 |[Learn Vimscript The Hard Way](https://learnvimscriptthehardway.stevelosh.com/) | Advanced Vim | [Steve Losh](https://stevelosh.com/) |
-|[Vim Help](https://vim.help/)| Vim | [@cheap_glitch](https://twitter.com/cheap_glitch) |
 |[Software Tools in Javascript](https://stjs.tech/)| Software Tooling | [Greg Wilson](https://github.com/gvwilson) |
 
 ## Mathematics
@@ -156,6 +155,7 @@ Some websites with a huge amount of free content on computer science topics
 | name | topic | author |
 |------|-------|--------|
 |[Mathematics for Programmers](https://jeremykun.com/main-content/) | Mathematics | [Jeremy Kun](https://jeremykun.com/about/) |
+|[Nature of Code](https://natureofcode.com/book/)| Mathematics, Artistic Programming | [Daniel Shiffman](https://shiffman.net/about/) |
 
 
 # Why make this repository?
