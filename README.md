@@ -156,6 +156,7 @@ Some websites with a huge amount of free content on computer science topics
 |------|-------|--------|
 |[Mathematics for Programmers](https://jeremykun.com/main-content/) | Mathematics | [Jeremy Kun](https://jeremykun.com/about/) |
 |[Nature of Code](https://natureofcode.com/book/)| Mathematics, Artistic Programming | [Daniel Shiffman](https://shiffman.net/about/) |
+|[Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index.html)| Linear Algebra| Dan Margalit, [Joseph Rabinoff](https://github.com/QBobWatson) |
 
 
 # Why make this repository?
