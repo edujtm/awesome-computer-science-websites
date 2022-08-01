@@ -124,6 +124,8 @@ Some websites with a huge amount of free content on computer science topics
 | [The Rustonomicon](https://doc.rust-lang.org/nomicon/index.html) | Rust | - |
 | [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests/) | Go | [Chris James](https://github.com/quii) |
 | [Effective Go](https://golang.org/doc/effective_go.html) | Go | - |
+| [Go by Example](https://gobyexample.com/) | Go | [Mark Mcgranaghan](https://markmcgranaghan.com/) & [Eli Bendersky](https://eli.thegreenplace.net/) |
+| [Go 101](https://go101.org/) | Go | - |
 | [Eloquent Javascript](https://eloquentjavascript.net/) | Javascript |[Marijn Haverbeke](https://github.com/marijnh) | 
 | [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/) | Javascript | [Ivo Wetzel](https://github.com/BonsaiDen) |
 | [Understanding ES6](https://leanpub.com/understandinges6/read) | Javascript, EcmaScript 6 | [Nicholas Zakas](https://leanpub.com/u/nzakas) |
