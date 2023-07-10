@@ -76,6 +76,7 @@ Some websites with a huge amount of free content on computer science topics
 | [Testing Angular - A Guide to Robust Angular Applications](https://testing-angular.com/) | Angular | 2021 | [Mathias Schäfer](https://twitter.com/molily) |
 | [Haskell and Yesod](https://www.yesodweb.com/book) | Haskell, Yesod | 2015 / - |[Michael Snoyman](https://github.com/snoyberg) |
 | [Web Browser Engineering](https://browser.engineering/) | Browsers | 2021 / - | [Pavel Panchekha](https://browser.engineering/blog/) |
+| [Cosmic Python \| Architecture Patterns with Python ](https://www.cosmicpython.com/)| Web Server Architecture, Python | 2020 | [Harry Percival](https://github.com/hjwp), [Bob Gregory](https://github.com/bobthemighty)|
 
 ## Databases
 
@@ -130,6 +131,9 @@ Some websites with a huge amount of free content on computer science topics
 | [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/) | Javascript | [Ivo Wetzel](https://github.com/BonsaiDen) |
 | [Understanding ES6](https://leanpub.com/understandinges6/read) | Javascript, EcmaScript 6 | [Nicholas Zakas](https://leanpub.com/u/nzakas) |
 | [Javascript Enlightenment](https://frontendmasters.com/books/javascript-enlightenment/) | Javascript, EcmaScript 6 | [Cody Lindley](http://codylindley.com/) |
+| [Javascript For Impatient Programmers](https://exploringjs.com/impatient-js/index.html)| Javascript | [Axel Rauschmayer](https://dr-axel.de/) |
+| [Deep Javascript](https://exploringjs.com/deep-js/toc.html)| Javascript | [Axel Rauschmayer](https://dr-axel.de/) |
+| [Tackling Typescript](https://exploringjs.com/tackling-ts/toc.html) | Typescript | [Axel Rauschmayer](https://dr-axel.de/) |
 | [Typescript Deep Dive](https://basarat.gitbook.io/typescript/) | Typescript | [Helmut Tammen](https://github.com/htammen) |
 | [F# For Fun And Profit](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/) | F# | [Scott W.](https://fsharpforfunandprofit.com/about/) |
 | [Learn You A Haskell For A Great Good](http://learnyouahaskell.com/chapters) | Haskell |[Mirân Lipovaca](http://learnyouahaskell.com/faq) |
